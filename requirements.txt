@@ -1,1 +1,4 @@
-google-cloud-aiplatform[agent_engines,adk]
+requirements = [
+    "google-cloud-aiplatform[agent_engines,adk]",
+    # any other dependencies
+]
